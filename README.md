@@ -1,3 +1,54 @@
+
+
+🚨 Một dự án open-source AiSOC cực nhiều tính năng cho AI x Cyber Security
+
+Trong khi nhiều SOC hiện nay vẫn phải đọc log và xử lý alert thủ công, thì AiSOC đang thử một hướng mới:
+
+👉 AI-powered SOC
+👉 Phân tích log bằng LLM
+👉 Hỗ trợ incident investigation
+👉 Tự động hóa workflow bảo mật
+
+AiSOC không chỉ là dashboard log.
+
+Nó hướng tới mô hình:
+“AI Security Analyst”
+
+có thể:
+
+* đọc log
+* phân tích cảnh báo
+* correlate event
+* hỗ trợ điều tra incident
+* gợi ý remediation
+
+Các tính năng nổi bật:
+
+* AI log analysis
+* Threat intelligence integration
+* Alert correlation
+* Security analytics dashboard
+* SOC workflow automation
+* Self-hosted & open-source
+
+⚡ Use case khá thực tế:
+
+* Blue Team lab
+* SOC nội bộ
+* Cybersecurity research
+* AI Security experiments
+* Homelab security
+
+Trong bối cảnh:
+
+* alert fatigue ngày càng nặng
+* thiếu SOC analyst
+* SIEM enterprise rất đắt
+
+thì hướng “AI-assisted SOC” như AiSOC là thứ rất đáng theo dõi trong vài 
+
+
+
 <div align="center">
 
 <img src="apps/web/public/logo-mark.svg" alt="AiSOC" width="120" />
